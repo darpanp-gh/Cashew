@@ -86,11 +86,20 @@ grep -ri "cashew" /app/budget --exclude-dir=node_modules
 If you want to continue customization:
 
 1. Update app icon in `/budget/assets/icon/`
-2. Update splash screen
-3. Translate other language files
-4. Add custom about page
-5. Update any code comments
+   - See `APP_ICON_DESIGN_GUIDE.md` for detailed instructions
+2. Build and test on devices
+   - See `BUILD_AND_TEST_GUIDE.md` for complete testing procedures
+3. Update splash screen
+4. Translate other language files
+5. Add custom about page
+6. Update any code comments
 
 ## 📄 Full Documentation
 
-See `REBRANDING_CHANGES.md` for complete details on all changes.
+### Comprehensive Guides
+- `REBRANDING_CHANGES.md` - Complete details on all changes
+- `BUILD_AND_TEST_GUIDE.md` - How to build and test the app
+- `APP_ICON_DESIGN_GUIDE.md` - How to create and update the app icon
+- `VERIFICATION_CHECKLIST.md` - Testing checklist
+- `FILES_MODIFIED_THIS_SESSION.txt` - Detailed change log
+- `QUICK_REFERENCE.md` - This document
