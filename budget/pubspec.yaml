@@ -37,7 +37,7 @@ dependencies:
   path: ^1.9.0
   math_expressions: ^2.5.0
   share_plus: ^10.0.0
-  google_sign_in: ^6.2.1
+  # google_sign_in: ^6.2.1  # Disabled for academic version
   googleapis: ^13.1.0
   universal_html: ^2.2.4
   flutter_charset_detector: ^1.0.2
