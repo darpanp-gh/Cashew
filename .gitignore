@@ -1,2 +1,6 @@
 # Miscellaneous
 /.vscode/
+-e 
+# Environment files
+*.env
+*.env.*
