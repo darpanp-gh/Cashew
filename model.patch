@@ -1,0 +1,13 @@
+diff --git a/budget/ios/Runner/Runner.entitlements b/budget/ios/Runner/Runner.entitlements
+index 04f03188..2bdf4317 100644
+--- a/budget/ios/Runner/Runner.entitlements
++++ b/budget/ios/Runner/Runner.entitlements
+@@ -6,7 +6,7 @@
+ 	<string>development</string>
+ 	<key>com.apple.developer.associated-domains</key>
+ 	<array>
+-		<string>applinks:cashewapp.web.app</string>
++		<string>applinks:ledgerly.app</string>
+ 	</array>
+ </dict>
+ </plist>
